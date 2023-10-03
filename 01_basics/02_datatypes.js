@@ -19,7 +19,7 @@ symbol
 
 /* 
 
-our legendry friend 
+our legendry friend one and only
 
 
 object 
