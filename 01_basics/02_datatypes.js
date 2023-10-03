@@ -19,7 +19,7 @@ symbol
 
 /* 
 
-our legendry friend one and only
+our legendry friend one and only welkcome him
 
 
 object 
