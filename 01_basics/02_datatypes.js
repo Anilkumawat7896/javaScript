@@ -27,6 +27,7 @@ object
 */
 
 console.log(typeof 7)
+//  hope you understood
 
 
 // type of null is object  yes that's why we call java script as a brocken lagnguage 😂
