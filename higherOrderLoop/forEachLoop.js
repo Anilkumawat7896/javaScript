@@ -61,9 +61,10 @@ const languageSyntex = [
 //   console.log(`${languageName} :--  ${extention}`);
 // });
 
-
 /* now normal syntex */
 
 languageSyntex.forEach((items) => {
   console.log(`${items.languageName} :--  ${items.extention}`);
 });
+
+// for each does not return anything
