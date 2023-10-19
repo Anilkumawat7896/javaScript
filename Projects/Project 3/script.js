@@ -5,4 +5,4 @@ console.log(date.toLocaleTimeString());
 
 setInterval(function () {
   clock.innerHTML = date.toLocaleTimeString();
-}, 100);
+}, 1000);
