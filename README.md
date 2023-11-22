@@ -1,2 +1,2 @@
 # javaScript
-JS prectise and concept programs
+let's learn javascript
